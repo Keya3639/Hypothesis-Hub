@@ -179,11 +179,11 @@ flowchart TD
 
 The notebook contains code for:
 
-- Conversion rate comparison between A and B
-- Conversion lift with a 95% confidence interval
-- Revenue per assigned user comparison
-- Order value distribution by experimental group
-- Correlation heatmap for selected variables
+![](1.png)
+![](2.png)
+![](3.png)
+![](4.png)
+![](5.png)
 
 ## 📂 Project Structure
 
