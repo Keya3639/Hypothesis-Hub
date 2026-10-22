@@ -242,6 +242,44 @@ Open `notebooks/hypothesis_hub_analysis.ipynb` and run the notebook cells.
 - Session-count segmentation is exploratory.
 - Real-world rollout decisions require validation using production data and appropriate experimental controls.
 
+---
+
+# 🚀 Hypothesis Hub 2.0
+
+Hypothesis Hub is evolving from a statistical analysis notebook into an interactive, business-focused A/B testing dashboard.
+
+### ✨ What's New in Version 2.0?
+
+- 🎨 **Interactive Streamlit Dashboard** — Explore experiment results through a unified, single-page interface.
+- 🧪 **Experiment Design** — Understand experiment allocation, variants, and key testing parameters.
+- 📊 **Conversion Analysis** — Compare conversion rates, absolute lift, and relative lift.
+- 📈 **Statistical Evidence** — Interpret p-values, confidence intervals, and hypothesis test results.
+- 💰 **Business Impact** — Evaluate revenue metrics alongside conversion performance.
+- 🔍 **Diagnostics** — Examine data quality, sample ratio mismatch, and exploratory relationships.
+- 🗂️ **Data Explorer** — Filter, inspect, summarize, and export experiment data.
+
+### 🛠️ Technology Stack
+
+**Python • Streamlit • Pandas • NumPy • Plotly • SciPy**
+
+Hypothesis Hub 2.0 brings the analytical workflow into one interactive experience, helping users move from experimental data to statistically informed, business-oriented decisions.
+
+**Version 2.0 focuses on making A/B testing more interactive, interpretable, and actionable.**
+---
+
+## Hypothesis Hub 2.0 Dashboard Overview -
+
+![](a.png)
+![](b.png)
+![](c.png)
+![](d.png)
+![](e.png)
+![](f.png)
+![](g.png)
+![](h.png)
+![](i.png)
+---
+
 ## 🔮 Future Enhancements
 
 - Integration with real product experiment data
